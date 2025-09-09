@@ -10,3 +10,5 @@ if temp == res:
     print("Number is a palindrome")
 else:
     print("This number is not a palindrome")
+
+# this code is not working for the number 135,175,518
